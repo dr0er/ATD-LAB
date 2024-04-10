@@ -1,0 +1,28 @@
+{
+  "_id": "66168fa8cd906cdd96866fc1",
+  "sex": "Male",
+  "first_name": "Ernest",
+  "last_name": "Drobny",
+  "job": "Developer",
+  "email": "edrob@gmail.com",
+  "location": {
+    "city": "Warsaw",
+    "address": {
+      "streetname": "Złota",
+      "streetnumber": 44
+    }
+  },
+  "description": "some desc",
+  "height": 190,
+  "weight": 70.9,
+  "birth_date": "1999-05-03T07:23:16Z",
+  "nationality": "Poland",
+  "credit": [
+    {
+      "type": "solo",
+      "number": 3530733569132235,
+      "currency": "PLN",
+      "balance": 234324413.72
+    }
+  ]
+}
