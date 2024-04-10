@@ -1,3 +1,2 @@
 Link do repozytorium na githubie, gdyby coś w zipie nie działało:
-[click me](https://www.example.com)
-"# ATD-LAB" 
+[click me](https://github.com/dr0er/ATD-LAB.git)
